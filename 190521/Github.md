@@ -38,7 +38,24 @@ class Person():
     
 ```
 
+# 이미 만들어진 프로젝트에 git을 올리는 순서
 
+``` git
+# git add [파일명]
+git add . 
+git commit -m "message"
+git push -u origin master
+```
 
+## Git Start
 
+fgfgfgfgfgfgfgfg
+
+```git
+git init
+git add[File Name]
+git commit -m "message"
+git remot add origin [github repository 주소]
+git push -u origin master
+```
 
